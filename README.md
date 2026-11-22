@@ -25,7 +25,7 @@ $job-career-fit 根据我的简历和一个工作案例，先问我想积累什�
 ### 查岗位和薪资
 
 ```text
-$job-career-fit 在深圳和苏州找研发侧整机系统工程师和机器人系统集成工程师。先列搜索词，再在 BOSS 直聘按城市和关键词多页搜索，给出公司、岗位原名、薪资、来源和待核实项。
+$job-career-fit 在XX和XX找研发侧整机系统工程师和机器人系统集成工程师。先列搜索词，再在 BOSS 直聘按城市和关键词多页搜索，给出公司、岗位原名、薪资、来源和待核实项。
 ```
 
 实时查询 BOSS 直聘需要另行安装 [boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)，并在其专用浏览器中登录。按抓取工具的 `SKILL.md` 执行环境检查。若 Codex 内启动浏览器时遇到系统权限错误，可在普通系统终端按抓取工具的说明启动专用浏览器，再回到 Codex 检查连接。你也可以上传已有的 JSON 或 CSV 导出；实时连接不可用时，结果会注明替代来源。详见 [BOSS 直聘数据接入](references/boss-data-source.md)。
